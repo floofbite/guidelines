@@ -5,7 +5,7 @@
  	<li>Certain content should be published in the places allocated for it and taking into account the topic</li>
  	<li>The rules apply to all kinds of content, including usernames, statuses, avatars, text messages and descriptions, emojis, bot commands, links, symbols, stickers, media...</li>
  	<li>A single post or message can have a maximum of one link, 15 emojis, 5 special characters, and one allowable mention (does not apply to staff*)</li>
- 	<li>The administration has the right to change the rules at any time</li>
+ 	<li>The owner (@Kampty) has the right to change the rules at any time</li>
 </ol>
 <!--- Part 2 -->
 <h2 style="text-align: center;"><span style="color: #ffffff;">2. Forbidden actions</span></h2>
@@ -40,5 +40,6 @@
  	<li>Be prepared to be asked to prove that the subject committed a violation or that you issued a punishment. In this case, you must prove the correctness</li>
  	<li>It is forbidden to speak badly about the project or the owner (@kampty)</li>
 </ol>
-<h4>*Personnel are Helper, Moderator, Moderator+ (Snr.Moderator), Admin (Administrator), Curator, Support, Manager and similar roles</h4>
+<h4>*Staff roles are Helper, Moderator, Moderator+ (Snr.Moderator), Admin (Administrator), Curator, Support, Manager and similar roles</h4>
 <h4>**Special places are channels, chats, pages, real life places, etc. managed by our organization or by @kampty himself where certain actions are allowed</h4>
+<h4>Global Guidelines cxan sometimes be called Guidelines, Rules, Global Rules, etc.</h4>
