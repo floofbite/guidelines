@@ -18,9 +18,9 @@
  	<li>Spam, except for special places**</li>
  	<li>Infringement of users due to religion, nationality, orientation, financial condition, physical characteristics, family and related problems and illnesses</li>
  	<li>Dissemination of false and inaccurate information and other ways of misrepresentation, including impersonation of another subject</li>
- 	<li>Самопродвижение без разрешения администрации, кроме специальных страниц и каналов</li>
+ 	<li>Self-promotion without the permission of staff*, except for special places**</li>
  	<li>Abuse of rights</li>
- 	<li>Cancel or dispute owner actions (@kampty)</li>
+ 	<li>Canceling or disputing owner actions (@kampty)</li>
  	<li>Violation of the laws of the state of Ukraine or support, justification of such actions</li>
  	<li>Raids, Exploits and Farming</li>
  	<li>Attempts to circumvent the rules with alternative accounts or use of hacker software</li>
