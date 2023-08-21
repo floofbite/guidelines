@@ -20,7 +20,7 @@
  	<li>Dissemination of false and inaccurate information and other ways of misrepresentation, including impersonation of another subject</li>
  	<li>Self-promotion without the permission of staff*, except for special places**</li>
  	<li>Abuse of rights</li>
- 	<li>Canceling or disputing owner actions (@kampty)</li>
+ 	<li>Cancel or dispute owner actions (@kampty)</li>
  	<li>Violation of the laws of the state of Ukraine or support, justification of such actions</li>
  	<li>Raids, Exploits and Farming</li>
  	<li>Attempts to circumvent the rules with alternative accounts or use of hacker software</li>
