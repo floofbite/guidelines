@@ -1,5 +1,5 @@
 # Global Guidelines
 Guidelines which are used on all projects of @kampty and @nightprojects<br>
-[English version](../release/en.md)<br>
-[Русскоязычная версия](../release/ru.md)<br>
-[Україномовна версія](../release/ua.md)
+[English version](../main/en.md)<br>
+[Русскоязычная версия](../main/ru.md)<br>
+[Україномовна версія](../main/ua.md)
