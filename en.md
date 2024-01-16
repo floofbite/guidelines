@@ -13,8 +13,7 @@
  	<li>Use of profanity</li>
  	<li>Showing disrespect to subjects in any form, including insults</li>
  	<li>Provocations, conflicts and threats</li>
- 	<li>Violation of the rules of the site on which the content is published</li>
- 	<li>NSFW content, as well as any hints of it, except for special places**</li>
+ 	<li>Pornography, nudity, as well as any hints of it</li>
  	<li>Spam, except for special places**</li>
  	<li>Infringement of subjects due to religion, nationality, orientation, financial condition, physical characteristics, family and related problems and illnesses</li>
  	<li>Dissemination of false and inaccurate information and other ways of misrepresentation, including impersonation of another subject</li>
