@@ -23,9 +23,7 @@
  	<li>Violation of the laws of the state of Ukraine or support, justification of such actions</li>
  	<li>Raids, Exploits and Farming</li>
  	<li>Attempts to circumvent the rules with alternative accounts or use of hacker software</li>
- 	<li>Support for the aggressor country Russia and Russian authorities</li>
  	<li>Support for terrorism, fascism, self-harm</li>
- 	<li>NSFW content in any way related to Furry Fandom</li>
  	<li>Harassment of people for participating in certain communities such as furries and anime</li>
  	<li>Impose a point of view on subjects</li>
 </ol>
