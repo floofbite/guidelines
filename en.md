@@ -41,4 +41,4 @@
 </ol>
 <h4>*Staff roles are Helper, Moderator, Moderator+ (Snr.Moderator), Admin (Administrator), Curator, Support, Manager and similar roles</h4>
 <h4>**Special places are channels, chats, pages, real life places, etc. managed by our organization or by @kampty himself where certain actions are allowed</h4>
-<h4>Global Guidelines cxan sometimes be called Guidelines, Rules, Global Rules, etc.</h4>
+<h4>Global Guidelines can sometimes be called Guidelines, Rules, Global Rules, etc.</h4>
